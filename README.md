@@ -5,10 +5,10 @@
 
 ### 💡 About Me
 
-🎓 Graduate from **IIT Kanpur**, currently working as an **SDE-1 in Bangalore, India**
-💻 Full-stack engineer delivering scalable, high-performance solutions across varied domains
-🔍 Focused on building **modular, maintainable systems** spanning backend services, frontend applications, and automation workflows
-⚙️ Passionate about **clean architecture, type-safe code, and reliable system design** — turning business requirements into impactful solutions
+ - 🎓 Graduate from **IIT Kanpur**, currently working as an **SDE-1 in Bangalore, India**
+ - 💻 Full-stack engineer delivering scalable, high-performance solutions across varied domains
+ - 🔍 Focused on building **modular, maintainable systems** spanning backend services, frontend applications, and automation workflows
+ - ⚙️ Passionate about **clean architecture, type-safe code, and reliable system design** — turning business requirements into impactful solutions
 
 ---
 
@@ -46,13 +46,9 @@
 ### 🌱 Currently Exploring
 
  - 🚀 Advanced Backend Architectures: Designing scalable and maintainable microservices with NestJS and TypeScript
-
  - 🐳 Containerization Best Practices: Leveraging Docker for consistent development and production environments
-
  - 🔐 Security in Web Applications: Implementing robust authentication, authorization, and API security patterns
-
  - 📈 System Design Fundamentals: Deepening knowledge in high-level system design, scalability, and fault tolerance
-
  - ⚙️ Python API Development: Building fast, lightweight APIs using FastAPI and exploring automation workflows
 
 ---
@@ -62,7 +58,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://www.linkedin.com/in/rahul-joshi2002/" target="_blank">
+      <a href="https://www.linkedin.com/in/rahuljoshi2002/" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30" height="30" alt="LinkedIn"/>
       </a>
     </td>
